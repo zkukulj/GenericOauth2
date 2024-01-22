@@ -21,4 +21,7 @@ Start three separate PHP servers:
 Open a browser at http://localhost:8000.
 
 Follow instructions.
-* Fixed Json serialization
+* Fixed Json serialization issue for 8.1 PHP
+Based on:
+https://github.com/mchojrin/oauth
+https://www.honeybadger.io/blog/oauth-in-php/
